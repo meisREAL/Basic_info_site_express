@@ -1,0 +1,25 @@
+{
+  "name": "basic_info_site_express",
+  "version": "1.0.0",
+  "description": "simple site to give static docs using express (learning purposes)",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meisREAL/Basic_info_site_express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meisREAL/Basic_info_site_express/issues"
+  },
+  "homepage": "https://github.com/meisREAL/Basic_info_site_express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
